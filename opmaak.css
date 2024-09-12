@@ -1,7 +1,6 @@
 body {
 background-color: forestgreen;
 opacity: 0,7;
-a.inset {border-style: inset;}
 ul {
     list-style-type:lower-greek ;
     margin: 0;
