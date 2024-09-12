@@ -3,7 +3,7 @@ background-color: forestgreen;
 opacity: 0,7;
 a.inset {border-style: inset;}
 ul {
-    list-style-type: none;
-    margin: 0;
+    list-style-type:lower-greek ;
+    margin: 50;
     padding: 0;
   }
