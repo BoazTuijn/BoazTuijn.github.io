@@ -5,6 +5,7 @@ ul {
     list-style-type:none ;
     margin: 0;
     padding: 0;
+    position: sticky;
   }
   li {
     float: left;
@@ -16,3 +17,4 @@ ul {
     background-color: #195c07;
   }
   p.double {border-style: double;}
+ 
