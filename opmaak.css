@@ -17,4 +17,12 @@ ul {
     background-color: #195c07;
   }
   p.double {border-style: double;}
- 
+ a:hover{
+  background-color: black;
+ }
+ .plaatje {
+  position: absolute;
+  top: 90px;
+  right: 75px;
+  font-size: 18px;
+}
