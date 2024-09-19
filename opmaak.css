@@ -9,6 +9,9 @@ ul {
     width: 100%;
     overflow: hidden;
   }  
+  li {
+    display: inline;
+  }
   a {
     display: block;
     padding: 15px;
