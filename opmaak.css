@@ -10,13 +10,13 @@ ul {
     overflow: hidden;
   }  
   li {
-    display: inline;
+    float: left;
   }
   a {
     display: block;
     padding: 15px;
     background-color: #195c07;
-    color: #ffffff;
+    color: #454545;
   }
   p.double {border-style: double;}
  a:hover{
