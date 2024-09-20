@@ -16,6 +16,7 @@ ul {
     display: block;
     padding: 15px;
     background-color: #195c07;
+    color: #ffffff;
   }
   p.double {border-style: double;}
  a:hover{
