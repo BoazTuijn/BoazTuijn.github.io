@@ -41,3 +41,9 @@ ul {
   left: 16px;
   font-size: 18px;
 }
+.vraag1 {
+  position: absolute;
+  top: 15%;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
