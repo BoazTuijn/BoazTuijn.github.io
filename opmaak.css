@@ -24,7 +24,7 @@ ul {
  }
  .plaatje {
   position: absolute;
-  top: 130px;
+  top: 150px;
   right: 75px;
   font-size: 18px;
 }
@@ -47,3 +47,4 @@ ul {
   width: 100%;
   text-align: center;
   font-size: 20px;
+}
