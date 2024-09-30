@@ -61,3 +61,9 @@ ul {
   left: 16px;
   font-size: 18px;
 }
+.ASCII {
+  position: absolute;
+  top: 200px;
+  right: 275px;
+  font-size: 18px;
+}
