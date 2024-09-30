@@ -54,3 +54,9 @@ ul {
   right: 75px;
   font-size: 18px;
 }
+.info1 {
+  position: absolute;
+  margin-top: 100px;
+  left: 16px;
+  font-size: 18px;
+}
