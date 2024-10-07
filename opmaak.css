@@ -71,3 +71,7 @@ ul {
   right: 16px;
   bottom: 8px;
 }
+.input{
+  position:absolute;
+  margin-top: 250px;
+}
