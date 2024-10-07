@@ -66,3 +66,8 @@ ul {
   right: 341px;
   font-size: 18px;
 }
+.footer{
+  position: absolute;
+  right: 16px;
+  bottom: 8px;
+}
